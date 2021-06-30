@@ -1,0 +1,101 @@
+:root {
+  --gutter: 16px;
+  --radius: 4px;
+  --color-background: #fff;
+  --color-foreground: #ddd;
+  --color-foreground-focus: #bbb;
+  --color-text: #444;
+  --color-text-light: #888;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-background: #000;
+    --color-foreground: #555;
+    --color-foreground-focus: #888;
+    --color-text: #ddd;
+    --color-text-light: #aaa;
+  }
+}
+
+body {
+  margin: 0;
+  background: var(--color-background);
+  color: var(--color-text);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji',
+    'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.wrap {
+  padding: var(--gutter);
+}
+
+.title {
+  margin: 0;
+  padding-bottom: calc(var(--gutter) * 2);
+  font-size: 2.4em;
+  text-align: center;
+}
+
+.category + .category {
+  margin-top: var(--gutter);
+}
+
+.category__name {
+  margin: 0;
+  padding-bottom: var(--gutter);
+  font-size: 1.6em;
+  font-weight: bold;
+}
+
+.category__list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.bookmark {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 200px;
+  margin-right: var(--gutter);
+  margin-bottom: var(--gutter);
+  padding: var(--gutter);
+  background-color: var(--color-foreground);
+  border-radius: var(--radius);
+  transition: all 0.1s;
+  cursor: pointer;
+}
+
+.bookmark:hover {
+  background-color: var(--color-foreground-focus);
+}
+
+.bookmark__name {
+  margin: 0;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.bookmark__desc {
+  margin: 0;
+  color: var(--color-text-light);
+  font-size: 0.9em;
+}
+
+.bookmark__link {
+  margin: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}

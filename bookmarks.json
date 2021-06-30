@@ -1,0 +1,362 @@
+[
+  {
+    "title": "电影和剧",
+    "list": [
+      {
+        "name": "BT之家",
+        "desc": "BT之家",
+        "link": "https://88btbtt.com/"
+      },
+      {
+        "name": "BD影视分享",
+        "desc": "BD影视分享",
+        "link": "https://www.bd2020.com/"
+      },
+      {
+        "name": "Rarbg",
+        "desc": "Rarbg",
+        "link": "http://rarbg.to/"
+      },
+      {
+        "name": "字幕库",
+        "desc": "字幕库",
+        "link": "http://zimuku.org/"
+      },
+      {
+        "name": "豆瓣",
+        "desc": "豆瓣",
+        "link": "https://movie.douban.com/"
+      },
+      {
+        "name": "FIX字幕侠",
+        "desc": "",
+        "link": "http://www.zimuxia.cn/"
+      },
+      {
+        "name": "烂番茄",
+        "desc": "",
+        "link": "https://www.rottentomatoes.com/"
+      }
+    ]
+  },
+  {
+    "title": "文档",
+    "list": [
+      {
+        "name": "DevDocs",
+        "desc": "文档大全",
+        "link": "https://devdocs.io/"
+      },
+      {
+        "name": "Conventional",
+        "desc": "git commit规范",
+        "link": "https://www.conventionalcommits.org/"
+      }
+    ]
+  },
+  {
+    "title": "学习",
+    "list": [
+      {
+        "name": "scrimba",
+        "desc": "可实时编辑视频内代码的学习网站",
+        "link": "https://scrimba.com/"
+      }
+    ]
+  },
+  {
+    "title": "在线工具",
+    "list": [
+      {
+        "name": "你的工具箱",
+        "desc": "程序员百宝箱",
+        "link": "https://tool.lu/"
+      },
+      {
+        "name": "Carbon",
+        "desc": "代码生成图片",
+        "link": "https://carbon.now.sh/"
+      },
+      {
+        "name": "TinyPNG",
+        "desc": "图片压缩",
+        "link": "https://tinypng.com/"
+      },
+      {
+        "name": "Gif Compressor",
+        "desc": "gif压缩",
+        "link": "https://gifcompressor.com/"
+      },
+      {
+        "name": "改图宝",
+        "desc": "图片尺寸修改",
+        "link": "https://www.gaitubao.com/"
+      },
+      {
+        "name": "做好图",
+        "desc": "各种图片工具",
+        "link": "http://www.zuohaotu.com/"
+      },
+      {
+        "name": "Tansfonter",
+        "desc": "字体转换",
+        "link": "https://transfonter.org/"
+      },
+      {
+        "name": "Everything Fonts",
+        "desc": "字体工具",
+        "link": "https://everythingfonts.com/"
+      },
+      {
+        "name": "NCM",
+        "desc": "网易云音乐ncm转mp3",
+        "link": "https://ncm.worthsee.com/"
+      }
+    ]
+  },
+  {
+    "title": "高清大图",
+    "list": [
+      {
+        "name": "Unsplash",
+        "desc": "",
+        "link": "https://unsplash.com/"
+      },
+      {
+        "name": "Life of Pix",
+        "desc": "",
+        "link": "https://www.lifeofpix.com/"
+      }
+    ]
+  },
+  {
+    "title": "设计",
+    "list": [
+      {
+        "name": "dribbble",
+        "desc": "",
+        "link": "https://dribbble.com/"
+      }
+    ]
+  },
+  {
+    "title": "字体&图标",
+    "list": [
+      {
+        "name": "iconfont",
+        "desc": "阿里巴巴矢量图标库",
+        "link": "https://www.iconfont.cn/"
+      },
+      {
+        "name": "IcoMoon",
+        "desc": "自由组合字体图标",
+        "link": "https://icomoon.io/"
+      },
+      {
+        "name": "flaticon",
+        "desc": "图标大全",
+        "link": "https://www.flaticon.com/"
+      }
+    ]
+  },
+  {
+    "title": "JavaScript",
+    "list": [
+      {
+        "name": "NPM",
+        "desc": "包管理工具",
+        "link": "https://www.npmjs.com/"
+      },
+      {
+        "name": "Babel",
+        "desc": "JavaScript编译器",
+        "link": "https://babeljs.io/"
+      },
+      {
+        "name": "TypeScript",
+        "desc": "带类型的JavaScript的超集",
+        "link": "https://www.typescriptlang.org/"
+      },
+      {
+        "name": "React",
+        "desc": "前端框架",
+        "link": "https://reactjs.org/"
+      },
+      {
+        "name": "React Router",
+        "desc": "React路由",
+        "link": "https://reactrouter.com/web/guides/quick-start"
+      },
+      {
+        "name": "ESLint",
+        "desc": "代码检测工具",
+        "link": "https://eslint.org/"
+      },
+      {
+        "name": "Standard",
+        "desc": "代码规范",
+        "link": "https://standardjs.com/"
+      },
+      {
+        "name": "Webpack",
+        "desc": "前端打包工具",
+        "link": "https://webpack.js.org/"
+      },
+      {
+        "name": "moment",
+        "desc": "moment",
+        "link": "https://momentjs.com/docs/"
+      },
+      {
+        "name": "Redux",
+        "desc": "状态管理库",
+        "link": "https://redux.js.org/"
+      },
+      {
+        "name": "PM2",
+        "desc": "Node进程管理器",
+        "link": "https://pm2.keymetrics.io/"
+      },
+      {
+        "name": "nodemon",
+        "desc": "Node进程自动重启工具",
+        "link": "https://nodemon.io/"
+      }
+    ]
+  },
+  {
+    "title": "react",
+    "list": [
+      {
+        "name": "useHooks",
+        "desc": "自定义hook示例",
+        "link": "https://usehooks.com/"
+      }
+    ]
+  },
+  {
+    "title": "Mac应用",
+    "list": [
+      {
+        "name": "Alfred",
+        "desc": "快速搜索",
+        "link": "https://www.alfredapp.com/"
+      },
+      {
+        "name": "Homebrew",
+        "desc": "应用管理工具",
+        "link": "https://brew.sh/"
+      },
+      {
+        "name": "Cakebrew",
+        "desc": "图形化Homebrew",
+        "link": "https://www.cakebrew.com/"
+      },
+      {
+        "name": "iTerm2",
+        "desc": "终端",
+        "link": "https://iterm2.com/"
+      },
+      {
+        "name": "Oh My Zsh",
+        "desc": "shell",
+        "link": "https://ohmyz.sh/"
+      },
+      {
+        "name": "nvm",
+        "desc": "Node版本管理工具",
+        "link": "https://github.com/nvm-sh/nvm"
+      },
+      {
+        "name": "Typora",
+        "desc": "Markdown",
+        "link": "https://www.typora.io/"
+      },
+      {
+        "name": "Fliqlo",
+        "desc": "锁屏时钟",
+        "link": "https://fliqlo.com/"
+      },
+      {
+        "name": "GitUp",
+        "desc": "图形化Git工具",
+        "link": "https://gitup.co/"
+      },
+      {
+        "name": "GitKraken",
+        "desc": "图形化Git工具",
+        "link": "https://www.gitkraken.com/"
+      },
+      {
+        "name": "Charles",
+        "desc": "代理工具",
+        "link": "https://www.charlesproxy.com/"
+      },
+      {
+        "name": "PostMan",
+        "desc": "接口调试工具",
+        "link": "https://www.postman.com/"
+      },
+      {
+        "name": "Spark",
+        "desc": "邮件客户端",
+        "link": "https://sparkmailapp.com/"
+      }
+    ]
+  },
+  {
+    "title": "Chrome插件",
+    "list": [
+      {
+        "name": "Vimium",
+        "desc": "chrome键盘快捷操作",
+        "link": "http://vimium.github.io/"
+      }
+    ]
+  },
+  {
+    "title": "乐队",
+    "list": [
+      {
+        "name": "Metallica",
+        "desc": "Thrash Metal、Speed Metal",
+        "link": "https://www.metallica.com/"
+      },
+      {
+        "name": "Lamb Of God",
+        "desc": "Groove Metal、Metalcore、Thrash Metal、Death Metal",
+        "link": "https://www.lamb-of-god.com/"
+      },
+      {
+        "name": "Bleed From Within",
+        "desc": "Metalcore、Melodic Death Metal、Groove Metal、Deathcore",
+        "link": "https://www.bleedfromwithin.com/"
+      },
+      {
+        "name": "As I Lay Dying",
+        "desc": "Metalcore",
+        "link": "https://www.asilaydying.com/"
+      },
+      {
+        "name": "Testament",
+        "desc": "Thrash Metal",
+        "link": "https://www.testamentlegions.com/"
+      },
+      {
+        "name": "Parkway Drive",
+        "desc": "Metalcore、Deathcore",
+        "link": "https://parkwaydriverock.com/"
+      },
+      {
+        "name": "Trivium",
+        "desc": "Thrash Metal、Metalcore、Progressive Metal",
+        "link": "https://www.trivium.org/"
+      },
+      {
+        "name": "Soilwork",
+        "desc": "Melodic Death Metal、Alternative Metal、Metalcore",
+        "link": "https://www.soilwork.org/"
+      }
+    ]
+  }
+]
