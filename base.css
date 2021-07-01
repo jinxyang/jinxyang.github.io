@@ -1,0 +1,53 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+:root {
+  --gap: 16px;
+  --radius: 4px;
+  --color-background: #fff;
+  --color-foreground: #ddd;
+  --color-foreground-focus: #bbb;
+  --color-text: #444;
+  --color-text-light: #888;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-background: #000;
+    --color-foreground: #555;
+    --color-foreground-focus: #888;
+    --color-text: #ddd;
+    --color-text-light: #aaa;
+  }
+}
+
+body {
+  margin: 0;
+  background: var(--color-background);
+  color: var(--color-text);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji',
+    'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+  font: inherit;
+}
+
+p {
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}

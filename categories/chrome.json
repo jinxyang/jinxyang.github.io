@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Extensions",
+    "list": [
+      {
+        "name": "Vimium",
+        "desc": "快捷操作",
+        "link": "http://vimium.github.io/"
+      },
+      {
+        "name": "Wappalyzer",
+        "desc": "网站技术识别",
+        "link": "https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg"
+      },
+      {
+        "name": "Video Downloader professional",
+        "desc": "",
+        "link": "https://chrome.google.com/webstore/detail/video-downloader-professi/elicpjhcidhpjomhibiffojpinpmmpil"
+      },
+      {
+        "name": "JSONView",
+        "desc": "",
+        "link": "https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc"
+      },
+      {
+        "name": "Save Image As PNG",
+        "desc": "",
+        "link": "https://chrome.google.com/webstore/detail/save-image-as-png/nkokmeaibnajheohncaamjggkanfbphi"
+      },
+      {
+        "name": "Window Resizer",
+        "desc": "",
+        "link": "https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh"
+      },
+      {
+        "name": "Web Developer",
+        "desc": "",
+        "link": "https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm"
+      }
+    ]
+  }
+]

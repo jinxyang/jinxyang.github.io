@@ -1,0 +1,52 @@
+[
+  {
+    "title": "数据",
+    "list": [
+      {
+        "name": "豆瓣",
+        "desc": "",
+        "link": "https://movie.douban.com/"
+      },
+      {
+        "name": "IMDb",
+        "desc": "Internet Movie Database",
+        "link": "https://www.imdb.com/"
+      },
+      {
+        "name": "烂番茄",
+        "desc": "",
+        "link": "https://www.rottentomatoes.com/"
+      }
+    ]
+  },
+  {
+    "title": "资源",
+    "list": [
+      {
+        "name": "BT之家",
+        "desc": "",
+        "link": "https://88btbtt.com/"
+      },
+      {
+        "name": "Rarbg",
+        "desc": "",
+        "link": "http://rarbg.to/"
+      },
+      {
+        "name": "BD影视分享",
+        "desc": "",
+        "link": "https://www.bd2020.com/"
+      },
+      {
+        "name": "FIX字幕侠",
+        "desc": "",
+        "link": "http://www.zimuxia.cn/"
+      },
+      {
+        "name": "字幕库",
+        "desc": "",
+        "link": "http://zimuku.org/"
+      }
+    ]
+  }
+]

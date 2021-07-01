@@ -1,0 +1,60 @@
+.wrap {
+  padding: var(--gap);
+}
+
+.title {
+  padding-bottom: calc(var(--gap) * 2);
+  font-size: 2.4em;
+  text-align: center;
+}
+
+.category + .category {
+  margin-top: var(--gap);
+}
+
+.category__name {
+  padding-bottom: var(--gap);
+  font-size: 1.6em;
+  font-weight: bold;
+}
+
+.category__list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.bookmark {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 200px;
+  margin-right: var(--gap);
+  margin-bottom: var(--gap);
+  padding: var(--gap);
+  background-color: var(--color-foreground);
+  border-radius: var(--radius);
+  transition: all 0.1s;
+  cursor: pointer;
+}
+
+.bookmark:hover {
+  background-color: var(--color-foreground-focus);
+}
+
+.bookmark__name {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.bookmark__desc {
+  color: var(--color-text-light);
+  font-size: 0.9em;
+}
+
+.bookmark__link {
+  margin: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}

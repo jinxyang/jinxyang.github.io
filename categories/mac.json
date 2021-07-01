@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Applications",
+    "list": [
+      {
+        "name": "Alfred",
+        "desc": "快速搜索",
+        "link": "https://www.alfredapp.com/"
+      },
+      {
+        "name": "Homebrew",
+        "desc": "应用管理工具",
+        "link": "https://brew.sh/"
+      },
+      {
+        "name": "Cakebrew",
+        "desc": "图形化Homebrew",
+        "link": "https://www.cakebrew.com/"
+      },
+      {
+        "name": "iTerm2",
+        "desc": "终端",
+        "link": "https://iterm2.com/"
+      },
+      {
+        "name": "Oh My Zsh",
+        "desc": "shell",
+        "link": "https://ohmyz.sh/"
+      },
+      {
+        "name": "Typora",
+        "desc": "Markdown",
+        "link": "https://www.typora.io/"
+      },
+      {
+        "name": "Fliqlo",
+        "desc": "锁屏时钟",
+        "link": "https://fliqlo.com/"
+      },
+      {
+        "name": "GitUp",
+        "desc": "图形化Git工具",
+        "link": "https://gitup.co/"
+      },
+      {
+        "name": "GitKraken",
+        "desc": "图形化Git工具",
+        "link": "https://www.gitkraken.com/"
+      },
+      {
+        "name": "Charles",
+        "desc": "代理工具",
+        "link": "https://www.charlesproxy.com/"
+      },
+      {
+        "name": "PostMan",
+        "desc": "接口调试工具",
+        "link": "https://www.postman.com/"
+      },
+      {
+        "name": "Spark",
+        "desc": "邮件客户端",
+        "link": "https://sparkmailapp.com/"
+      }
+    ]
+  }
+]

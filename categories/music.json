@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Band",
+    "list": [
+      {
+        "name": "Metallica",
+        "desc": "Thrash Metal、Speed Metal",
+        "link": "https://www.metallica.com/"
+      },
+      {
+        "name": "Lamb Of God",
+        "desc": "Groove Metal、Metalcore、Thrash Metal、Death Metal",
+        "link": "https://www.lamb-of-god.com/"
+      },
+      {
+        "name": "Bleed From Within",
+        "desc": "Metalcore、Melodic Death Metal、Groove Metal、Deathcore",
+        "link": "https://www.bleedfromwithin.com/"
+      },
+      {
+        "name": "As I Lay Dying",
+        "desc": "Metalcore",
+        "link": "https://www.asilaydying.com/"
+      },
+      {
+        "name": "Testament",
+        "desc": "Thrash Metal",
+        "link": "https://www.testamentlegions.com/"
+      },
+      {
+        "name": "Parkway Drive",
+        "desc": "Metalcore、Deathcore",
+        "link": "https://parkwaydriverock.com/"
+      },
+      {
+        "name": "Trivium",
+        "desc": "Thrash Metal、Metalcore、Progressive Metal",
+        "link": "https://www.trivium.org/"
+      },
+      {
+        "name": "Soilwork",
+        "desc": "Melodic Death Metal、Alternative Metal、Metalcore",
+        "link": "https://www.soilwork.org/"
+      }
+    ]
+  },
+  {
+    "title": "Tools",
+    "list": [
+      {
+        "name": "ncm",
+        "desc": "ncm转mp3",
+        "link": "https://ncm.worthsee.com/"
+      }
+    ]
+  }
+]

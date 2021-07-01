@@ -1,0 +1,197 @@
+[
+  {
+    "title": "Tools",
+    "list": [
+      {
+        "name": "你的工具箱",
+        "desc": "程序员百宝箱",
+        "link": "https://tool.lu/"
+      },
+      {
+        "name": "Carbon",
+        "desc": "代码生成图片",
+        "link": "https://carbon.now.sh/"
+      }
+    ]
+  },
+  {
+    "title": "Documents",
+    "list": [
+      {
+        "name": "MDN",
+        "desc": "",
+        "link": "https://developer.mozilla.org/en-US/docs/Web"
+      },
+      {
+        "name": "DevDocs",
+        "desc": "文档大全",
+        "link": "https://devdocs.io/"
+      },
+      {
+        "name": "Conventional",
+        "desc": "git commit 规范",
+        "link": "https://www.conventionalcommits.org/"
+      },
+      {
+        "name": "Semantic Versioning",
+        "desc": "版本规范",
+        "link": "https://semver.org/"
+      }
+    ]
+  },
+  {
+    "title": "Learn",
+    "list": [
+      {
+        "name": "scrimba",
+        "desc": "可实时编辑视频内代码的学习网站",
+        "link": "https://scrimba.com/"
+      }
+    ]
+  },
+  {
+    "title": "Git",
+    "list": [
+      {
+        "name": "GitHub",
+        "desc": "",
+        "link": "https://github.com/"
+      },
+      {
+        "name": "Git教程",
+        "desc": "廖雪峰的Git教程",
+        "link": "https://www.liaoxuefeng.com/wiki/896043488029600/"
+      }
+    ]
+  },
+  {
+    "title": "React",
+    "list": [
+      {
+        "name": "React",
+        "desc": "",
+        "link": "https://reactjs.org/"
+      },
+      {
+        "name": "React Router",
+        "desc": "",
+        "link": "https://reactrouter.com/web/guides/quick-start"
+      },
+      {
+        "name": "Redux",
+        "desc": "",
+        "link": "https://redux.js.org/"
+      },
+      {
+        "name": "useHooks",
+        "desc": "自定义hook示例",
+        "link": "https://usehooks.com/"
+      }
+    ]
+  },
+  {
+    "title": "Workflow",
+    "list": [
+      {
+        "name": "Webpack",
+        "desc": "",
+        "link": "https://webpack.js.org/"
+      },
+      {
+        "name": "Babel",
+        "desc": "",
+        "link": "https://babeljs.io/"
+      },
+      {
+        "name": "ESLint",
+        "desc": "",
+        "link": "https://eslint.org/"
+      },
+      {
+        "name": "Standard",
+        "desc": "",
+        "link": "https://standardjs.com/"
+      }
+    ]
+  },
+  {
+    "title": "TypeScript",
+    "list": [
+      {
+        "name": "TypeScript",
+        "desc": "",
+        "link": "https://www.typescriptlang.org/"
+      }
+    ]
+  },
+  {
+    "title": "Node",
+    "list": [
+      {
+        "name": "nvm",
+        "desc": "",
+        "link": "https://github.com/nvm-sh/nvm"
+      },
+      {
+        "name": "node",
+        "desc": "",
+        "link": "https://nodejs.org/en/"
+      },
+      {
+        "name": "npm",
+        "desc": "",
+        "link": "https://www.npmjs.com/"
+      },
+      {
+        "name": "pm2",
+        "desc": "",
+        "link": "https://pm2.keymetrics.io/"
+      },
+      {
+        "name": "nodemon",
+        "desc": "",
+        "link": "https://nodemon.io/"
+      }
+    ]
+  },
+  {
+    "title": "Libs",
+    "list": [
+      {
+        "name": "Ant Design of React",
+        "desc": "ReactUI库",
+        "link": "https://ant.design/docs/react/introduce-cn"
+      },
+      {
+        "name": "moment",
+        "desc": "moment",
+        "link": "https://momentjs.com/docs/"
+      }
+    ]
+  },
+  {
+    "title": "CSS",
+    "list": [
+      {
+        "name": "BEM",
+        "desc": "命名规范",
+        "link": "http://getbem.com/"
+      },
+      {
+        "name": "CSS-Tricks",
+        "desc": "CSS奇招妙计",
+        "link": "https://css-tricks.com/"
+      },
+      {
+        "name": "styled-components",
+        "desc": "css in js",
+        "link": "https://styled-components.com/"
+      },
+      {
+        "name": "Grid教程",
+        "desc": "阮一峰的Grid教程",
+        "link": "http://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html"
+      }
+    ]
+  }
+]
