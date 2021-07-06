@@ -36,6 +36,11 @@
         "name": "Semantic Versioning",
         "desc": "版本规范",
         "link": "https://semver.org/"
+      },
+      {
+        "name": "ECMA-262",
+        "desc": "ECMA标准规范",
+        "link": "https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"
       }
     ]
   },
@@ -46,6 +51,11 @@
         "name": "scrimba",
         "desc": "可实时编辑视频内代码的学习网站",
         "link": "https://scrimba.com/"
+      },
+      {
+        "name": "The Modern JavaScript Tutorial",
+        "desc": "非常全面的JS教程",
+        "link": "https://javascript.info/"
       }
     ]
   },
@@ -76,6 +86,11 @@
         "name": "React Router",
         "desc": "",
         "link": "https://reactrouter.com/web/guides/quick-start"
+      },
+      {
+        "name": "Awesome React",
+        "desc": "React生态大全",
+        "link": "https://github.com/enaqx/awesome-react"
       },
       {
         "name": "Redux",
