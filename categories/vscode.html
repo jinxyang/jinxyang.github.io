@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>VSCode - Bookmarks</title>
+    <link rel="stylesheet" href="../base.css" />
+    <link rel="stylesheet" href="../bookmarks.css" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script src="../render.js"></script>
+    <script src="../bookmarks.js"></script>
+    <script>
+      window.onload = () => {
+        loadJson('./vscode.json', (json) => {
+          renderBookmarks('Visual Studio Code', json)
+        })
+      }
+    </script>
+  </body>
+</html>

@@ -23,6 +23,10 @@ const list = [
     name: 'Chrome',
     link: './categories/chrome.html',
   },
+  {
+    name: 'VSCode',
+    link: './categories/vscode.html',
+  },
 ]
 
 const App = div(
