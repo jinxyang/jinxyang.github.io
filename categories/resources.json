@@ -83,5 +83,15 @@
         "link": "https://dribbble.com/"
       }
     ]
+  },
+  {
+    "title": "Fonts",
+    "list": [
+      {
+        "name": "Font Squirrel",
+        "desc": "免费英文字体",
+        "link": "https://www.fontsquirrel.com/"
+      }
+    ]
   }
 ]

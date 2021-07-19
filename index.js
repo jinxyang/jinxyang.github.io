@@ -1,5 +1,13 @@
 const list = [
   {
+    name: 'Interesting',
+    link: './categories/interesting.html',
+  },
+  {
+    name: 'Tools',
+    link: './categories/tools.html',
+  },
+  {
     name: 'Movies',
     link: './categories/movies.html',
   },

@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Interesting",
+    "list": [
+      {
+        "name": "home of the first website",
+        "desc": "世界上第一个网站",
+        "link": "http://info.cern.ch/"
+      },
+      {
+        "name": "INOUE TAKEHIKO",
+        "desc": "井上雄彦",
+        "link": "https://itplanning.co.jp/"
+      },
+      {
+        "name": "Type Terms",
+        "desc": "字体规范？标准？",
+        "link": "https://www.supremo.co.uk/typeterms/"
+      }
+    ]
+  }
+]

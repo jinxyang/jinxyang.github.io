@@ -208,5 +208,75 @@
         "link": "http://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html"
       }
     ]
+  },
+  {
+    "title": "Packages",
+    "list": [
+      {
+        "name": "globby",
+        "desc": "增强型glob",
+        "link": "https://www.npmjs.com/package/globby"
+      },
+      {
+        "name": "fs-extra",
+        "desc": "增强型fs",
+        "link": "https://www.npmjs.com/package/fs-extra"
+      },
+      {
+        "name": "shelljs",
+        "desc": "Unix shell commands for Node.js",
+        "link": "https://www.npmjs.com/package/shelljs"
+      },
+      {
+        "name": "rimraf",
+        "desc": "The UNIX command rm -rf for node",
+        "link": "https://www.npmjs.com/package/rimraf"
+      },
+      {
+        "name": "node-fetch",
+        "desc": "A light-weight module that brings window.fetch to Node.js",
+        "link": "https://www.npmjs.com/package/node-fetch"
+      },
+      {
+        "name": "open",
+        "desc": "Open stuff like URLs, files, executables. Cross-platform",
+        "link": "https://www.npmjs.com/package/open"
+      },
+      {
+        "name": "path-to-regexp",
+        "desc": "Turn a path string such as /user/:name into a regular expression.",
+        "link": "https://www.npmjs.com/package/path-to-regexp"
+      },
+      {
+        "name": "semver",
+        "desc": "The semantic versioner for npm",
+        "link": "https://www.npmjs.com/package/semver"
+      },
+      {
+        "name": "standard-version",
+        "desc": "A utility for versioning using semver and CHANGELOG generation powered by Conventional Commits",
+        "link": "https://www.npmjs.com/package/standard-version"
+      },
+      {
+        "name": "inquirer",
+        "desc": "A collection of common interactive command line user interfaces",
+        "link": "https://www.npmjs.com/package/inquirer"
+      },
+      {
+        "name": "chalk",
+        "desc": "Terminal string styling done right",
+        "link": "https://www.npmjs.com/package/chalk"
+      },
+      {
+        "name": "ora",
+        "desc": "Elegant terminal spinner",
+        "link": "https://www.npmjs.com/package/ora"
+      },
+      {
+        "name": "progress-estimator",
+        "desc": "Logs a progress bar and estimation for how long a Promise will take to complete",
+        "link": "https://www.npmjs.com/package/progress-estimator"
+      }
+    ]
   }
 ]
