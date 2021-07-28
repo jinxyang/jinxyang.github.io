@@ -1,5 +1,15 @@
 [
   {
+    "title": "CheatSheet",
+    "list": [
+      {
+        "name": "FLEX",
+        "desc": "A simple visual cheatsheet for flexbox",
+        "link": "https://flexbox.malven.co/"
+      }
+    ]
+  },
+  {
     "title": "Tools",
     "list": [
       {

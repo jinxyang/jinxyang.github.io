@@ -19,8 +19,45 @@
 }
 
 .category__list {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--gap);
+}
+
+@media screen and (min-width: 576px) {
+  .category__list {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .category__list {
+    grid-template-columns: repeat(6, 1fr);
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .category__list {
+    grid-template-columns: repeat(8, 1fr);
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .category__list {
+    grid-template-columns: repeat(10, 1fr);
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  .category__list {
+    grid-template-columns: repeat(12, 1fr);
+  }
+}
+
+@media screen and (min-width: 1800px) {
+  .category__list {
+    grid-template-columns: repeat(14, 1fr);
+  }
 }
 
 .bookmark {
@@ -28,10 +65,9 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  width: 200px;
-  margin-right: var(--gap);
-  margin-bottom: var(--gap);
+  grid-column: span 2;
   padding: var(--gap);
+  overflow: hidden;
   background-color: var(--color-foreground);
   border-radius: var(--radius);
   transition: all 0.1s;

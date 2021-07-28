@@ -53,16 +53,6 @@
     "title": "期待",
     "list": [
       {
-        "name": "特种部队：蛇眼起源",
-        "desc": "2021-07-23",
-        "link": "https://movie.douban.com/subject/30396443/"
-      },
-      {
-        "name": "王国：北方的阿信",
-        "desc": "2021-07-23",
-        "link": "https://movie.douban.com/subject/35151297/"
-      },
-      {
         "name": "绿衣骑士",
         "desc": "2021-07-30",
         "link": "https://movie.douban.com/subject/30372022/"
@@ -86,6 +76,11 @@
         "name": "追忆迷局",
         "desc": "2021-08-20",
         "link": "https://movie.douban.com/subject/26615748/"
+      },
+      {
+        "name": "英语系主任",
+        "desc": "2021-08-20",
+        "link": "https://movie.douban.com/subject/34971175/"
       },
       {
         "name": "尚气与十环传奇",
@@ -123,6 +118,11 @@
         "link": "https://movie.douban.com/subject/30223888/"
       },
       {
+        "name": "嗜血法医 第九季",
+        "desc": "2021-11-07",
+        "link": "https://movie.douban.com/subject/35225519/"
+      },
+      {
         "name": "王牌特工：源起",
         "desc": "2021-12-22",
         "link": "https://movie.douban.com/subject/27038228/"
@@ -141,11 +141,6 @@
         "name": "战士 第三季",
         "desc": "2021",
         "link": "https://movie.douban.com/subject/35433177/"
-      },
-      {
-        "name": "嗜血法医 第九季",
-        "desc": "2021",
-        "link": "https://movie.douban.com/subject/35225519/"
       },
       {
         "name": "怪奇物语 第四季",
