@@ -60,12 +60,16 @@
   }
 }
 
+.category__item {
+  grid-column: span 2;
+}
+
 .bookmark {
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  grid-column: span 2;
+  height: 100%;
   padding: var(--gap);
   overflow: hidden;
   background-color: var(--color-foreground);

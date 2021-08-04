@@ -11,18 +11,21 @@ const renderBookmarks = (title, bookmarks) => {
             { className: 'category__list' },
             list.map(({ name, desc, link }) =>
               li(
-                {
-                  className: 'bookmark',
-                  title: `${name}: ${link}`,
-                  onclick: () => window.open(link),
-                },
-                h3({ className: 'bookmark__name' }, name),
-                p({ className: 'bookmark__desc' }, desc),
-                p(
+                { className: 'category__item' },
+                a(
                   {
-                    className: 'bookmark__link',
+                    className: 'bookmark',
+                    title: `${name}: ${link}`,
+                    href: link,
                   },
-                  link,
+                  h3({ className: 'bookmark__name' }, name),
+                  p({ className: 'bookmark__desc' }, desc),
+                  p(
+                    {
+                      className: 'bookmark__link',
+                    },
+                    link,
+                  ),
                 ),
               ),
             ),

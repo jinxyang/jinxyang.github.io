@@ -44,8 +44,10 @@ const App = div(
     { className: 'list' },
     list.map(({ name, link }) =>
       li(
-        { className: 'category', onclick: () => (window.location.href = link) },
-        h2({ className: 'category__name' }, name),
+        a(
+          { className: 'category', href: link },
+          h2({ className: 'category__name' }, name),
+        ),
       ),
     ),
   ),
