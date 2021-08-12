@@ -1,5 +1,25 @@
 [
   {
+    "title": "Latest",
+    "list": [
+      {
+        "name": "奇舞周刊",
+        "desc": "",
+        "link": "https://weekly.75.team/"
+      },
+      {
+        "name": "Alligator",
+        "desc": "Front-End Web Development, Chewed Up",
+        "link": "https://alligator.io/"
+      },
+      {
+        "name": "Syntax.",
+        "desc": "Wes Bos",
+        "link": "https://syntax.fm/"
+      }
+    ]
+  },
+  {
     "title": "CheatSheet",
     "list": [
       {

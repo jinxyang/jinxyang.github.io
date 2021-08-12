@@ -71,6 +71,11 @@
         "name": "Bracket Pair Colorizer 2",
         "desc": "A customizable extension for colorizing matching brackets",
         "link": "https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2"
+      },
+      {
+        "name": "Todo Tree",
+        "desc": "根据注释生成Todo树",
+        "link": "https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree"
       }
     ]
   }
