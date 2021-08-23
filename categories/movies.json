@@ -53,39 +53,9 @@
     "title": "期待",
     "list": [
       {
-        "name": "绿衣骑士",
-        "desc": "2021-07-30",
-        "link": "https://movie.douban.com/subject/30372022/"
-      },
-      {
-        "name": "科曼先生",
-        "desc": "2021-08-06",
-        "link": "https://movie.douban.com/subject/34816690/"
-      },
-      {
-        "name": "假如······？",
-        "desc": "2021-08-11",
-        "link": "https://movie.douban.com/subject/33408073/"
-      },
-      {
-        "name": "摩登情爱 第二季",
-        "desc": "2021-08-13",
-        "link": "https://movie.douban.com/subject/34869760/"
-      },
-      {
         "name": "失控玩家",
-        "desc": "2021-08-13",
+        "desc": "2021-08-27",
         "link": "https://movie.douban.com/subject/30337388/"
-      },
-      {
-        "name": "追忆迷局",
-        "desc": "2021-08-20",
-        "link": "https://movie.douban.com/subject/26615748/"
-      },
-      {
-        "name": "英语系主任",
-        "desc": "2021-08-20",
-        "link": "https://movie.douban.com/subject/34971175/"
       },
       {
         "name": "尚气与十环传奇",
@@ -98,14 +68,14 @@
         "link": "https://movie.douban.com/subject/34966169/"
       },
       {
-        "name": "毒液2",
-        "desc": "2021-09-24",
-        "link": "https://movie.douban.com/subject/30382416/"
-      },
-      {
         "name": "基地",
         "desc": "2021-09-24",
         "link": "https://movie.douban.com/subject/3161109/"
+      },
+      {
+        "name": "毒液2",
+        "desc": "2021-10-15",
+        "link": "https://movie.douban.com/subject/30382416/"
       },
       {
         "name": "007：无暇赴死",
@@ -113,8 +83,13 @@
         "link": "https://movie.douban.com/subject/20276229/"
       },
       {
+        "name": "沙丘",
+        "desc": "2021-10-22",
+        "link": "https://movie.douban.com/subject/3001114/"
+      },
+      {
         "name": "最后的决斗",
-        "desc": "2021-10-25",
+        "desc": "2021-10-15",
         "link": "https://movie.douban.com/subject/34658290/"
       },
       {
@@ -148,11 +123,6 @@
         "link": "https://movie.douban.com/subject/35433177/"
       },
       {
-        "name": "怪奇物语 第四季",
-        "desc": "2021",
-        "link": "https://movie.douban.com/subject/27194292/"
-      },
-      {
         "name": "信号 第二季",
         "desc": "2021",
         "link": "https://movie.douban.com/subject/34607563/"
@@ -161,6 +131,11 @@
         "name": "新蝙蝠侠",
         "desc": "2022-03-04",
         "link": "https://movie.douban.com/subject/6424756/"
+      },
+      {
+        "name": "怪奇物语 第四季",
+        "desc": "2022",
+        "link": "https://movie.douban.com/subject/27194292/"
       },
       {
         "name": "西部世界 第四季",
