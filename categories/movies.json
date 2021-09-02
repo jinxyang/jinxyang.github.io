@@ -63,6 +63,26 @@
         "link": "https://movie.douban.com/subject/30394797/"
       },
       {
+        "name": "算牌人",
+        "desc": "2021-09-10",
+        "link": "https://movie.douban.com/subject/34873745/"
+      },
+      {
+        "name": "平行母亲",
+        "desc": "2021-09-10",
+        "link": "https://movie.douban.com/subject/35123985/"
+      },
+      {
+        "name": "婚姻生活",
+        "desc": "2021-09-12",
+        "link": "https://movie.douban.com/subject/35136700/"
+      },
+      {
+        "name": "哭泣的男人",
+        "desc": "2021-09-17",
+        "link": "https://movie.douban.com/subject/10523152/"
+      },
+      {
         "name": "性爱自修室 第三季",
         "desc": "2021-09-17",
         "link": "https://movie.douban.com/subject/34966169/"
@@ -71,6 +91,11 @@
         "name": "基地",
         "desc": "2021-09-24",
         "link": "https://movie.douban.com/subject/3161109/"
+      },
+      {
+        "name": "纽瓦克众圣",
+        "desc": "2021-10-01",
+        "link": "https://movie.douban.com/subject/30165027/"
       },
       {
         "name": "毒液2",
@@ -98,9 +123,24 @@
         "link": "https://movie.douban.com/subject/30223888/"
       },
       {
+        "name": "斯宾塞",
+        "desc": "2021-11-05",
+        "link": "https://movie.douban.com/subject/35101435/"
+      },
+      {
         "name": "嗜血法医 第九季",
         "desc": "2021-11-07",
         "link": "https://movie.douban.com/subject/35225519/"
+      },
+      {
+        "name": "犬之力",
+        "desc": "2021-11-17",
+        "link": "https://movie.douban.com/subject/33437152/"
+      },
+      {
+        "name": "星际牛仔",
+        "desc": "2021-11-19",
+        "link": "https://movie.douban.com/subject/3157581/"
       },
       {
         "name": "王牌特工：源起",
@@ -108,14 +148,14 @@
         "link": "https://movie.douban.com/subject/27038228/"
       },
       {
-        "name": "星际牛仔",
-        "desc": "2021-10",
-        "link": "https://movie.douban.com/subject/3157581/"
-      },
-      {
         "name": "进击的巨人 最终季 Part.2",
         "desc": "2021",
         "link": "https://movie.douban.com/subject/35290710/"
+      },
+      {
+        "name": "地狱",
+        "desc": "2021",
+        "link": "https://movie.douban.com/subject/34974555/"
       },
       {
         "name": "战士 第三季",
@@ -151,6 +191,11 @@
         "name": "万物生灵 第二季",
         "desc": "",
         "link": "https://movie.douban.com/subject/35274831/"
+      },
+      {
+        "name": "夜访吸血鬼 第一季",
+        "desc": "2022",
+        "link": "https://movie.douban.com/subject/35511264/"
       }
     ]
   },
