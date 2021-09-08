@@ -71,6 +71,16 @@
         "name": "Life of Pix",
         "desc": "",
         "link": "https://www.lifeofpix.com/"
+      },
+      {
+        "name": "wallhaven",
+        "desc": "",
+        "link": "https://wallhaven.cc/"
+      },
+      {
+        "name": "ArtStation",
+        "desc": "",
+        "link": "https://www.artstation.com/"
       }
     ]
   },

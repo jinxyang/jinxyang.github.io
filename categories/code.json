@@ -3,8 +3,13 @@
     "title": "Latest",
     "list": [
       {
+        "name": "30 seconds of code",
+        "desc": "Short code snippets for all your development needs",
+        "link": "https://www.30secondsofcode.org/"
+      },
+      {
         "name": "SMASHING MAGAZINE",
-        "desc": "For Web Designer And Developer ",
+        "desc": "For Web Designer And Developer",
         "link": "https://www.smashingmagazine.com/"
       },
       {
@@ -136,6 +141,11 @@
         "name": "useHooks",
         "desc": "自定义hook示例",
         "link": "https://usehooks.com/"
+      },
+      {
+        "name": "beautiful-react-hooks",
+        "desc": "有用且漂亮的钩子",
+        "link": "https://antonioru.github.io/beautiful-react-hooks/"
       }
     ]
   },
