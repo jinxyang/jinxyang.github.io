@@ -53,24 +53,9 @@
     "title": "期待",
     "list": [
       {
-        "name": "毒液2",
-        "desc": "2021-10",
-        "link": "https://movie.douban.com/subject/30382416/"
-      },
-      {
         "name": "007：无暇赴死",
         "desc": "2021-10-29",
         "link": "https://movie.douban.com/subject/20276229/"
-      },
-      {
-        "name": "最后的决斗",
-        "desc": "2021-10-15",
-        "link": "https://movie.douban.com/subject/34658290/"
-      },
-      {
-        "name": "沙丘",
-        "desc": "2021-10-22",
-        "link": "https://movie.douban.com/subject/3001114/"
       },
       {
         "name": "法兰西特派",
@@ -169,7 +154,7 @@
       },
       {
         "name": "甘草比萨",
-        "desc": "2022-12-25",
+        "desc": "2021-12-25",
         "link": "https://movie.douban.com/subject/34888057/"
       },
       {
