@@ -81,6 +81,11 @@
         "name": "ECMA-262",
         "desc": "ECMA标准规范",
         "link": "https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"
+      },
+      {
+        "name": "cosmiconfig",
+        "desc": "配置文件查找",
+        "link":"https://github.com/davidtheclark/cosmiconfig"
       }
     ]
   },
