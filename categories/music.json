@@ -46,6 +46,21 @@
         "name": "Soilwork",
         "desc": "Melodic Death Metal、Alternative Metal、Metalcore",
         "link": "https://www.soilwork.org/"
+      },
+      {
+        "name": "Bury Tomorrow",
+        "desc": "Metalcore、Melodic Metalcore",
+        "link": "https://www.bury-tomorrow.com/"
+      },
+      {
+        "name": "Of Mice & Men",
+        "desc": "Metalcore、Nu Metal、Alternative Metal",
+        "link": "https://www.ofmiceandmenofficial.com/"
+      },
+      {
+        "name": "Black Veil Brides",
+        "desc": "Metal",
+        "link": "http://blackveilbrides.net/"
       }
     ]
   },
