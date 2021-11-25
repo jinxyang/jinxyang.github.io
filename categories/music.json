@@ -61,6 +61,16 @@
         "name": "Black Veil Brides",
         "desc": "Metal",
         "link": "http://blackveilbrides.net/"
+      },
+      {
+        "name": "Gojira",
+        "desc": "Metal",
+        "link": "https://www.gojira-music.com/"
+      },
+      {
+        "name": "After The Burial",
+        "desc": "Progressive Metal、Metalcore、Deathcore",
+        "link": "https://aftertheburial.co/"
       }
     ]
   },

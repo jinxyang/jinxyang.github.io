@@ -53,11 +53,6 @@
     "title": "期待",
     "list": [
       {
-        "name": "鹰眼",
-        "desc": "2021-11-24",
-        "link": "https://movie.douban.com/subject/33406089/"
-      },
-      {
         "name": "玉面情魔",
         "desc": "2021-12-17",
         "link": "https://movie.douban.com/subject/27605105/"
@@ -363,7 +358,7 @@
         "link": "https://movie.douban.com/subject/34670642/"
       },
       {
-        "title": "17.3 关于性",
+        "name": "17.3 关于性",
         "desc": "",
         "link": "https://movie.douban.com/subject/35202302/"
       },
