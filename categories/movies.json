@@ -23,6 +23,11 @@
     "title": "资源",
     "list": [
       {
+        "title": "torlook",
+        "desc": "torrent search",
+        "link": "https://w41.torlook.info/"
+      },
+      {
         "name": "BT之家",
         "desc": "",
         "link": "https://88btbtt.com/"
