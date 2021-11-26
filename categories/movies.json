@@ -23,7 +23,7 @@
     "title": "资源",
     "list": [
       {
-        "title": "torlook",
+        "name": "torlook",
         "desc": "torrent search",
         "link": "https://w41.torlook.info/"
       },
