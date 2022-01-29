@@ -58,11 +58,6 @@
     "title": "期待",
     "list": [
       {
-        "name": "暗夜博士：莫比亚斯",
-        "desc": "2022-01-28",
-        "link": "https://movie.douban.com/subject/27199850/"
-      },
-      {
         "name": "尼罗河上的惨案",
         "desc": "2022-02-11",
         "link": "https://movie.douban.com/subject/27203644/"
@@ -71,6 +66,11 @@
         "name": "新蝙蝠侠",
         "desc": "2022-03-04",
         "link": "https://movie.douban.com/subject/6424756/"
+      },
+      {
+        "name": "暗夜博士：莫比亚斯",
+        "desc": "2022-04-01",
+        "link": "https://movie.douban.com/subject/27199850/"
       },
       {
         "name": "不能承受的天才之重",
