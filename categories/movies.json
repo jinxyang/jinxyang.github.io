@@ -58,14 +58,24 @@
     "title": "期待",
     "list": [
       {
-        "name": "尼罗河上的惨案",
-        "desc": "2022-02-11",
-        "link": "https://movie.douban.com/subject/27203644/"
+        "name": "辍学生",
+        "desc": "2022-03-03",
+        "link": "https://movie.douban.com/subject/33405802/"
       },
       {
         "name": "新蝙蝠侠",
-        "desc": "2022-03-04",
+        "desc": "2022-03-18",
         "link": "https://movie.douban.com/subject/6424756/"
+      },
+      {
+        "name": "光环世界 第一季",
+        "desc": "2022-03-24",
+        "link": "https://movie.douban.com/subject/24748737/"
+      },
+      {
+        "name": "月光骑士",
+        "desc": "2022-03-30",
+        "link": "https://movie.douban.com/subject/26358318/"
       },
       {
         "name": "暗夜博士：莫比亚斯",
@@ -78,9 +88,9 @@
         "link": "https://movie.douban.com/subject/34890458/"
       },
       {
-        "name": "疾速追杀4",
+        "name": "怪奇物语 第四季",
         "desc": "2022-05-27",
-        "link": "https://movie.douban.com/subject/33455421/"
+        "link": "https://movie.douban.com/subject/27194292/"
       },
       {
         "name": "黑亚当",
@@ -88,12 +98,7 @@
         "link": "https://movie.douban.com/subject/26959697/"
       },
       {
-        "name": "碟中谍7",
-        "desc": "2022-09-30",
-        "link": "https://movie.douban.com/subject/30433455/"
-      },
-      {
-        "name": "蜘蛛侠：平行宇宙2",
+        "name": "蜘蛛侠：纵横宇宙(上)",
         "desc": "2022-10-07",
         "link": "https://movie.douban.com/subject/30391186/"
       },
@@ -108,11 +113,6 @@
         "link": "https://movie.douban.com/subject/4811774/"
       },
       {
-        "name": "怪奇物语 第四季",
-        "desc": "2022",
-        "link": "https://movie.douban.com/subject/27194292/"
-      },
-      {
         "name": "西部世界 第四季",
         "desc": "2022",
         "link": "https://movie.douban.com/subject/35042913/"
@@ -123,7 +123,7 @@
         "link": "https://movie.douban.com/subject/35048728/"
       },
       {
-        "name": "夜访吸血鬼 第一季",
+        "name": "吸血鬼编年史 第一季",
         "desc": "2022",
         "link": "https://movie.douban.com/subject/35511264/"
       },
@@ -141,11 +141,6 @@
         "name": "上升",
         "desc": "2022",
         "link": "https://movie.douban.com/subject/27176051/"
-      },
-      {
-        "name": "光环世界",
-        "desc": "2022",
-        "link": "https://movie.douban.com/subject/24748737/"
       },
       {
         "name": "美国舞男",
@@ -181,6 +176,11 @@
         "name": "新刀锋战士",
         "desc": "2023",
         "link": "https://movie.douban.com/subject/34636172/"
+      },
+      {
+        "name": "碟中谍7",
+        "desc": "2023-07-14",
+        "link": "https://movie.douban.com/subject/30433455/"
       },
       {
         "name": "疯狂的麦克斯5：废土",
