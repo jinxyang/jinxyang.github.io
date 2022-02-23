@@ -3,6 +3,11 @@
     "title": "Latest",
     "list": [
       {
+        "name": "Batter Programming",
+        "desc": "Advice for programmers",
+        "link": "https://betterprogramming.pub/"
+      },
+      {
         "name": "30 seconds of code",
         "desc": "Short code snippets for all your development needs",
         "link": "https://www.30secondsofcode.org/"
@@ -85,7 +90,7 @@
       {
         "name": "cosmiconfig",
         "desc": "配置文件查找",
-        "link":"https://github.com/davidtheclark/cosmiconfig"
+        "link": "https://github.com/davidtheclark/cosmiconfig"
       }
     ]
   },
